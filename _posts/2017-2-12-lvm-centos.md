@@ -1,8 +1,11 @@
 ---  
 layout: post
-title: LVM Setup in Centos
+title: Create a network between VMs in Oracle VirtualHost
 ---
-  
- You are up and running.
+ Creating a network between 2 Oracle VirtualHost VMs will be handy for testing/learning topics such as Clustering,
+ SAN, Load balancing etc.One way to connect the VMs is by using "Internal Network" Option.
+ 
+ Go to network section on each VM and select "Internal Network".
+ 
   
 
