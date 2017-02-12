@@ -7,7 +7,7 @@ title: Create a network between VMs in Oracle VirtualHost
  
  Go to network section on each VM and select "Internal Network".
  
- ![_config.yml]({{ site.baseurl }}/images/image001.png)
+ ![_config.yml]({{ site.baseurl }}/images/image001.PNG)
  
   
 
