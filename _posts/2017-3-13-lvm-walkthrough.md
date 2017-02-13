@@ -9,7 +9,7 @@ title: Understanding lvm
  can be combined into volume groups.Logical volumes are virtual hard disks created from volume
  groups.
  
- As the first step create a 15GB disk in the virtualbox.
+ As the first step create a 15GB disk in the VM.
  
  ![_config.yml]({{ site.baseurl }}/images/image003.png)
  
