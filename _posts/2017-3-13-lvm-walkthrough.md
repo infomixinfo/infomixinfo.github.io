@@ -16,3 +16,9 @@ title: Understanding lvm
  Now create the extended partition.
  
  ![_config.yml]({{ site.baseurl }}/images/image004.png)
+ 
+ Now create 3 logical partitions. Select +652 additional cylindes for each partition and the default value of 
+ 1958 for the the 3rd partition as shown in the below image. 652 cylinders has been taken to equally devide 
+ the 3 logical partitions.
+ 
+ ![_config.yml]({{ site.baseurl }}/images/image005.png)
