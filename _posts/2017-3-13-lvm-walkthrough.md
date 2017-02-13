@@ -11,7 +11,7 @@ title: Understanding lvm
  
  As the first step create a 15GB disk in the virtualbox.
  
- ![_config.yml]({{ site.baseurl }}/images/image003.png)
+ ![_config.yml]({{ site.baseurl }}/images/image001.png)
  
  Now create the extended partition.
  
