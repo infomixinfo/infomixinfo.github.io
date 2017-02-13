@@ -32,7 +32,8 @@ title: Understanding lvm
  ![_config.yml]({{ site.baseurl }}/images/image007.png)
  
  After that create the volme group using the first 2 disks from the physical volume. Volume group can be extended 
- later by adding the last disk.
+ later by adding the last disk. vgs command will show the size of the volume group and the number of physical volumes 
+ that are part of the volume group.
  
  ![_config.yml]({{ site.baseurl }}/images/image008.png)
  
