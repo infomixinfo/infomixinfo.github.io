@@ -22,3 +22,20 @@ title: Understanding lvm
  the 3 logical partitions.
  
  ![_config.yml]({{ site.baseurl }}/images/image005.png)
+
+ Now convert the logical partitions into lvm partitions using Hex code 8e. 
+ 
+ ![_config.yml]({{ site.baseurl }}/images/image006.png)
+ 
+ Then create the physical volume.
+ 
+ ![_config.yml]({{ site.baseurl }}/images/image007.png)
+ 
+ After that create the volme group using the first 2 disks from the physical volume. Volume group can be extended 
+ later by adding the last disk.
+ 
+ ![_config.yml]({{ site.baseurl }}/images/image008.png)
+ 
+ 
+ 
+ 
