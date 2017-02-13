@@ -48,7 +48,7 @@ title: Understanding lvm
  ![_config.yml]({{ site.baseurl }}/images/image010.png)
  
  Mount the logical volume. Add the remaining physical volume to vg01 volume group using vgextend. Then extend the 
- logical volume with the available free space in the volume group using lvextend. This can be done while the logicla volume
+ logical volume with the available free space in the volume group using lvextend. This can be done while the logical volume
  is mounted. The changes will come into effect only after running the resize2fs command.
  
  ![_config.yml]({{ site.baseurl }}/images/image011.png)
