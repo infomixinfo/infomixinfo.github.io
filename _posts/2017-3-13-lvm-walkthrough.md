@@ -38,9 +38,22 @@ title: Understanding lvm
  ![_config.yml]({{ site.baseurl }}/images/image008.png)
  
  Now create 2 logical volumes in the volume group. The first command with option -L will allocate 5GB where as the 
- second command with option -l gives the number of extents. It can also be expressed as a pesentage of the total available 
+ second command with option -l gives the number of extents. It can also be expressed as a percentage of the total available 
  space as shown in the example.
  
  ![_config.yml]({{ site.baseurl }}/images/image009.png)
+ 
+ Now format the logical volume.
+ 
+ ![_config.yml]({{ site.baseurl }}/images/image010.png)
+ 
+ Mount the logical volume. Add the remaining physical volume to vg01 volume group using vgextend. Then extend the 
+ logical volume with the available free space in the volume group using lvextend. This can be done while the logicla volume
+ is mounted. The changes will come into effect only after running the resize2fs command.
+ 
+ ![_config.yml]({{ site.baseurl }}/images/image011.png)
+ 
+ 
+ 
  
  
