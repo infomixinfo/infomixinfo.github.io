@@ -39,7 +39,7 @@ title: Understanding lvm
  
  Now create 2 logical volumes in the volume group. The first command with option -L will allocate 5GB where as the 
  second command with option -l gives the number of extents. It can also be expressed as a percentage of the total available 
- space as shown in the example.
+ space as shown in the example. lvdisplay will list the logical volumes.
  
  ![_config.yml]({{ site.baseurl }}/images/image009.png)
  
