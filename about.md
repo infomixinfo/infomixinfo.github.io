@@ -16,4 +16,4 @@ technologies out there. I like to get my hands dirty while learning, and will be
 
 ### Contact me
 
-[email@domain.com](mailto:sreenadhmenon@gmail.com)
+[sreenadhmenon@gmail.com](mailto:sreenadhmenon@gmail.com)
