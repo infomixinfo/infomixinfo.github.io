@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there!
 
-### More Information
+This is Sreenadh.
 
-A place to include any other types of information that you'd like to include about yourself.
+
+
+I am a Systems Engineer by profession moreover an OpenSource enthusiast who enjoys learning and trying out different 
+technologies out there. I like to get my hands dirty while learning, and will be sharing my journey through different terrains such as Linux,Storage,AWS etc.. here.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:sreenadhmenon@gmail.com)
